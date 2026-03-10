@@ -5,7 +5,7 @@ Copyright (C) 2026 Unknown Lifeform - GEAS
  Everyone is permitted to copy and distribute verbatim copies
  of this license document, but changing it is not allowed.
 
-  0.Definitions.
+  0. Definitions.
  As used herein, "this License" refers to version 1 of the GEAS Credit Given Copyleft License.
 
    "The Work" refers to any copyrightable work licensed under this
